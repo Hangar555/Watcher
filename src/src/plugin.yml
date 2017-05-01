@@ -1,0 +1,9 @@
+name: Watcher
+version: 1.0
+author: HangarGeek
+main: eu.hangar.watcher.Main
+description: An automated moderation system! It can ban, mute, warn and even detect hacks!
+commands:
+      PW:
+        usage: /<command> <args> [optional args]
+        description: Detailed Help
